@@ -1,5 +1,4 @@
-# golang-google-events-tracker
-Go Lang Google Analytics Events Tracker
+# Golang Google Analytics Events Tracker
 
 **How to use:**
 
